@@ -1,0 +1,991 @@
+OMOKAGE — ce qui reste d'un visage
+Candidature au clan Uchiha
+
+Uchiha Izuma, dix ans. De la lignée d’Izuna, descendant de Setsuna.
+Tout le monde dit qu’il a le visage de son père. Il aimerait bien le voir, une fois.
+
+Version illustrée : https://westishere.github.io/uchiha-izuma/
+
+════════════════════════════════════════════════
+CE QUI RESTE D’UN VISAGE  ·  Note d’intention
+════════════════════════════════════════════════
+
+OMOKAGE (面影), nom japonais
+  1. Le visage de quelqu’un tel qu’il demeure dans le souvenir, quand la personne n’est plus là.
+  2. Ce que l’on retrouve d’un visage sur le visage d’un autre.
+  « Il a l’omokage de son père » : on reconnaît son père en lui.
+
+Izuma a dix ans. Tout le monde lui dit qu’il a le visage de son père. Il ne peut pas le vérifier : il ne reconnaît pas les visages. Ni celui de son père sur une photographie, ni celui de la femme qui l’élève, ni le sien.
+
+La question de départ est simple : qu’est-ce que reconnaître quelqu’un ? Dans la maison où il grandit, on reconnaît les siens au sang, au nom, à la ressemblance ; on aime en lui un visage qu’il ne verra jamais. Lui ne connaît les gens que par ce qu’ils font : leur pas, leur voix, leur toux, leur façon de poser une tasse. Il croit de toutes ses forces à la première manière. Il ne vit que de la seconde. Il ne le sait pas.
+
+Le français donne au mot un double fond que le récit ne souligne jamais. Reconnaître, c’est identifier ; c’est aussi admettre, faire une place. Un père « reconnaît » son enfant. Voici un enfant qui ne reconnaît personne et qui ne demande qu’à être reconnu.
+
+Ce n’est pas une thèse. L’histoire ne dit pas que les gestes valent mieux que le sang. L’amour de Kiyo, qui passe par la ressemblance, est un amour véritable ; le carnet de Izuma, qui réduit les gens à des indices, se trompe et blesse. Les deux manières de connaître quelqu’un sont incomplètes, et la candidature les laisse se regarder sans trancher.
+
+La pensée appartient au récit. L’incompréhension appartient à l’enfant. Il ne philosophe pas : il note, il se trompe, il voudrait qu’on l’aime.
+
+Pourquoi ces choix
+------------------
+I. Une particularité qui touche l’héritage. Dans une famille qui aime la ressemblance, un enfant qui ne perçoit pas les visages vit au cœur du problème sans en avoir le mot. Ce n’est pas un décor : c’est l’endroit précis où la lignée lui fait mal.
+II. Le quartier Uchiha est le pire endroit pour lui. Mêmes cheveux noirs, mêmes yeux sombres, mêmes vêtements, même éventail dans le dos : tout ce sur quoi s’appuient les gens qui ne reconnaissent pas les visages disparaît. L’uniformité que le clan appelle pureté devient, pour lui, un brouillard très concret.
+III. Elle se joue sans peser sur les autres. Personne n’a à s’occuper de lui. C’est à lui de se tromper, de bluffer, d’attendre qu’on parle.
+IV. Elle laisse de la place. Puisqu’il ne sait pas qui l’a élevé, l’instructeur, l’ancien ou l’enfant du canal n’ont pas de nom dans son histoire. Ils peuvent être vous.
+V. Une forme à deux voix. Le récit suit les âges, au présent, parce que Izuma vit au présent : un visage vu il y a une heure est un visage neuf. Entre les chapitres, des pages de son carnet, écrites à l’âge qu’il avait. D’un côté ce qui s’est passé, de l’autre ce qu’il en a noté. Le récit n’explique rien de plus que l’écart entre les deux.
+
+════════════════════════════════════════════════
+IDENTITÉ  ·  Extrait du registre de la branche
+════════════════════════════════════════════════
+
+Nom : Uchiha
+Prénom : Izuma イズマ. Une seule lettre le sépare d’Izuna.
+Âge : Dix ans et demi. Né au début de l’été ; il aura onze ans l’été prochain.
+Lignée : Izuna → … → Setsuna → … → Hayato → Izuma. Le nombre de générations intermédiaires s’ajuste à la chronologie du serveur.
+Père : Uchiha Hayato. Disparu quand Izuma avait trois ans. Son sort n’est pas fixé par cette candidature. [réservé aux responsables]
+Mère : Uchiha Sae, d’une branche cadette du clan. Couturière. Vivante : elle voit son fils le premier jour de chaque mois et coud ses vêtements.
+Tutrice : Uchiha Kiyo, sa grand-tante paternelle, gardienne du registre de la branche. Il vit chez elle depuis l’âge de trois ans et demi.
+Affiliation : Konoha, clan Uchiha. Élève de l’Académie, pas encore genin.
+Apparence : Cheveux noirs coupés court par sa grand-tante, la frange de travers depuis l’automne. Yeux noirs. Petit et mince pour son âge, il se tient très droit. Vêtements sombres à col haut, l’éventail cousu dans le dos par sa mère. Une petite brûlure revient sans cesse au coin de sa lèvre. Dans la poche intérieure, un carnet à couverture de toile grise.
+Tempérament : Inquiet, très sensible, obéissant en apparence, affamé d’approbation. Tendre avec ceux qu’il aime, injuste avec ceux qu’il croit moins que lui. Rapporteur. Menteur maladroit. Drôle sans le vouloir.
+Particularité : Il ne reconnaît pas les visages. C’est un secret de famille. Fonctionnement et règles de jeu.
+Sharingan : Non éveillé. Aucune technique particulière.
+
+[Lore : ce qui est établi, ce qui est proposé] Izuna (fils de Tajima, frère de Madara) et Setsuna (membre de la police militaire du village sous le Second Hokage, qui se méfiait de lui) appartiennent au canon : rien n’est inventé à leur sujet et aucun exploit n’est attribué à la famille. Les deux versions canoniques du sort des yeux d’Izuna, donnés ou pris, circulent dans le récit comme des versions de famille. Kiyo, Sae, Hayato et Shun sont des propositions : leurs noms, leurs liens et leur présence peuvent être ajustés par les responsables du clan. Les adultes du clan qui ont élevé Izuma restent volontairement sans nom, puisqu’il ne sait pas qui ils étaient : des joueurs peuvent s’y glisser.
+
+════════════════════════════════════════════════
+LE REGISTRE ET LE CARNET  ·  Le récit · prologue, onze chapitres, épilogue
+════════════════════════════════════════════════
+
+    PAPA
+    — marchait comme moi (dit le vieux monsieur)
+    je sais pas comment je marche.
+    — Carnet de Izuma, huit ans.
+
+────────────────────────────────
+PROLOGUE — LE PORTAIL
+(Dix ans)
+────────────────────────────────
+
+Le matin, avant l’Académie, Izuma attend devant le portail de la maison.
+
+Il n’attend personne. C’est ce qu’il répondrait si on lui posait la question, et personne ne la pose. Il se tient sur la pierre plate, à gauche du battant, celle qui ne bouge pas quand on marche dessus, et il écoute la rue.
+
+La rue est étroite, les toits se touchent presque, et le matin tout le quartier y passe vêtu de la même façon : col haut, tissu sombre, l’éventail rouge et blanc cousu entre les omoplates. Les cheveux sont noirs, les yeux aussi. Vus de dos, les Uchiha se ressemblent tous. Vus de face aussi, mais ça, Izuma ne le dit à personne.
+
+Des socques raclent les pavés, un pied plus lourd que l’autre : l’homme qui tient l’échoppe de thé, au coin de la rue du sanctuaire. Izuma incline la tête, juste assez. L’homme ne répond pas. Il ne répond jamais ; il n’est pas méchant, il entend mal d’une oreille.
+
+Deux voix de femmes qui parlent du prix du poisson. Il ne les connaît pas, ou il ne sait pas s’il les connaît, ce qui revient au même. Il fait un petit mouvement du menton qui peut passer pour un salut ou pour rien du tout. Il a inventé ce mouvement tout seul, l’année dernière. Il en est assez fier.
+
+Puis un pas d’homme, lent, qui ralentit encore et s’arrête devant lui.
+
+— Tu es le petit de Hayato.
+
+Ce n’est pas une question. Izuma lève les yeux. Il y a là un visage d’homme, avec tout ce qu’il faut : des yeux, un nez, une ride entre les sourcils, une bouche qui attend. Il le regarde bien, longtemps, comme grand-tante le lui a appris. Ça ne sert à rien. Il le fait quand même.
+
+— Oui, Ancien.
+
+« Ancien » convient à presque tous les hommes qui ont cette voix-là. L’homme le dévisage encore un moment.
+
+— Tu as vraiment son visage, tu sais.
+
+— Merci, Ancien.
+
+L’homme s’éloigne. Izuma écoute son pas jusqu’au bout de la rue, pour s’en souvenir : lent, le talon gauche qui frotte. Il l’écrira ce soir. Dans son carnet, il y a déjà onze hommes dont le talon gauche frotte.
+
+Derrière lui, une canne frappe deux fois le seuil, deux coups puis plus rien, et il s’est retourné avant même qu’elle ait toussé.
+
+— Tu vas être en retard, dit grand-tante Kiyo.
+
+Il n’est jamais en retard. Il part en courant quand même.
+
+────────────────────────────────
+I. UNE LETTRE DE DIFFÉRENCE
+(La naissance, telle qu’on la lui raconte)
+────────────────────────────────
+
+De sa naissance, Izuma ne sait que ce qu’on lui en a raconté, et on ne lui a pas raconté la même chose.
+
+D’après grand-tante Kiyo, il est né au lever du jour, au début de l’été, dans la petite maison du canal où ses parents habitaient alors. Elle a fait le chemin à pied, malgré l’heure, pour être là quand on le laverait. Le septième jour, elle a écrit son nom dans le registre de la branche, à l’encre noire, sous celui de son père, comme il se doit. Elle dit que c’est un nom pour la branche : une seule lettre le sépare de celui d’Izuna, et c’est voulu. Quand il demande qui l’a voulu, elle répond : « La branche. »
+
+D’après sa mère, il est né au milieu de la nuit, par une chaleur telle que personne ne dormait dans le quartier, et le lendemain il n’y avait pas un souffle d’air : les bannières du sanctuaire pendaient le long de leurs mâts comme du linge mouillé. Son père voulait l’appeler Izuna, tout simplement. On lui a fait comprendre qu’on ne donne pas ce nom-là à un enfant. Alors il a changé une lettre, et il est sorti le dire à toute la rue. C’est tout. Elle dit « c’est tout » à la fin de l’histoire, chaque fois, en souriant un peu, comme pour s’excuser qu’elle soit si courte.
+
+D’après le vieil homme qui sent le tabac de pipe, Hayato voulait un nom court, qu’on puisse crier d’un bout à l’autre du terrain d’entraînement. Le vieil homme rit en le disant. Izuma ne sait pas très bien qui est ce vieil homme, mais il sait qu’il faut lui dire « Ancien » et qu’il rit souvent.
+
+Izuma préfère la version de grand-tante. Un nom voulu par la branche lui paraît plus solide qu’un nom auquel on a retiré une lettre.
+
+· · ·
+
+On lui raconte aussi qu’à sa naissance tout le monde s’est penché sur lui et que chacun a trouvé quelque chose. Le nez de Hayato. Le front de Hayato. La bouche de sa mère, peut-être, a dit quelqu’un, et on n’a pas insisté. Une tante éloignée a déclaré qu’il avait les oreilles d’Izuna, et tout le monde a ri, parce que personne dans la pièce ne savait à quoi ressemblaient les oreilles d’Izuna.
+
+Grand-tante raconte cette scène comme une histoire drôle. Izuma rit aussi, au bon endroit.
+
+· · ·
+
+Le registre de la branche dort dans une boîte laquée, au fond de la chambre de grand-tante. Ce n’est pas un livre comme ceux de l’Académie. Les noms y descendent en colonnes, de haut en bas et de droite à gauche, reliés par des traits fins : un trait pour un mariage, un trait pour un enfant. Tout en haut, il y a Izuna, frère de Madara. Plus loin, Setsuna. Entre eux, et après eux, des noms que Izuma sait réciter sans se tromper et dont il ne sait presque rien d’autre. À côté de la plupart, une date à l’encre rouge : celle de leur mort.
+
+Tout au bout, il y a son nom à lui, tracé d’une main sûre. Juste avant, relié par un trait, celui de son père.
+
+À côté du nom de son père, il n’y a pas de date rouge. Il n’y a rien.
+
+────────────────────────────────
+II. LES MAINS QUI SENTAIENT L’HUILE
+(Trois ans)
+────────────────────────────────
+
+Il a un seul souvenir de son père, et il n’est pas certain que ce soit son père.
+
+Des mains le soulèvent sous les bras. D’un coup, il est très haut, au-dessus d’une eau verte où bougent des taches orange et blanches. Les mains ont une odeur forte, un peu grasse, qu’il retrouvera des années plus tard dans la salle d’armes de l’Académie : l’huile qu’on passe sur les lames pour qu’elles ne rouillent pas. Quelqu’un parle au-dessus de sa tête. Il ne se rappelle pas les mots. Il se rappelle qu’il a peur de tomber dans l’eau et qu’il rit quand même, de toutes ses forces.
+
+Dans le souvenir, il n’y a pas de visage. Il y a les mains, l’odeur, l’eau, les poissons.
+
+À huit ans, il racontera ce souvenir à sa mère. Elle posera son aiguille.
+
+— Oui. Il te portait comme ça, au-dessus des carpes, chez ta grand-tante. Tu hurlais de rire. Moi, j’avais peur qu’il te lâche.
+
+Il le racontera à grand-tante le soir même, pour qu’elle sache qu’il se souvient.
+
+— Hayato n’aurait jamais tenu un enfant au-dessus de l’eau. Et ton père ne t’a jamais amené ici avant que tu viennes y vivre.
+
+Elle n’aura pas l’air fâchée. Elle aura l’air de corriger une date.
+
+Il gardera les deux. Il ne voit pas comment les deux pourraient être vraies. Il ne voit pas non plus comment choisir.
+
+· · ·
+
+Pour lui, la disparition de son père n’est pas un jour. C’est une saison pendant laquelle les choses changent de place.
+
+Il y a des hommes dans la petite maison du canal, beaucoup d’hommes à la fois, qui parlent bas et gardent leurs sandales sur le seuil, ce qui ne se fait pas. Il y a sa mère dans la cuisine, debout devant l’évier, et l’eau qui coule longtemps sans qu’elle lave rien. Il y a un panier de ses jouets qu’on emporte quelque part et qu’il ne reverra jamais en entier. Il y a une nuit, puis beaucoup de nuits, dans une chambre qui sent le camphre, où le plancher craque au moindre mouvement, si bien qu’il apprend à ne plus bouger du tout une fois couché.
+
+Il demande une fois quand papa rentrera. Grand-tante répond :
+
+— Ton père a fait son devoir.
+
+Il ne comprend pas la réponse. Il comprend qu’il ne faut pas reposer la question. Au bout de quelque temps, il oublie qu’il voulait la poser. Ce qui lui manque, la nuit, pendant les premiers mois, ce n’est pas son père. C’est sa mère, et le bruit du canal sous la fenêtre.
+
+· · ·
+
+C’est à cette époque que les anciens de la branche décident que l’enfant de Hayato sera élevé dans la maison de la lignée, sous le toit de Kiyo, comme il convient. Sa mère gardera la petite maison du canal. Elle le verra le premier jour de chaque mois. Elle coudra ses vêtements.
+
+Izuma ne sait pas qui a décidé, ni si sa mère a dit oui, ni si on le lui a demandé. Il a trois ans et demi.
+
+L’éventail cousu dans le dos de chacune de ses vestes vient des mains de sa mère. Il le sait. Il n’y pense pas.
+
+────────────────────────────────
+III. T’ES À QUI, TOI ?
+(Cinq ans)
+────────────────────────────────
+
+L’été de ses cinq ans, sa mère obtient la permission de l’emmener à la fête du sanctuaire. Elle porte un yukata bleu à motif de vagues. Il ne s’en souviendrait pas si on ne le lui avait pas répété si souvent ensuite.
+
+Il y a des lampions, une odeur de sauce brûlée, des gens partout, plus de gens qu’il n’en a jamais vu au même endroit. Sa mère lui tient la main gauche. Elle lui achète une pomme d’amour qu’il porte devant lui comme une lanterne. Devant le bassin des poissons rouges, il lâche sa main pour voir de plus près : un grand garçon essaie d’en attraper un avec une raquette de papier, le papier se déchire, tout le monde rit, Izuma rit aussi.
+
+Quand il se retourne, il y a des yukata bleus partout.
+
+Il prend une main au hasard, la plus proche, au bout d’une manche bleue, et la main se referme sur la sienne sans réfléchir, comme le font les mains des adultes.
+
+Ils marchent ensemble jusqu’à l’étal des masques. C’est seulement quand la femme se penche vers lui en disant « Mais qu’est-ce que tu fais là, toi ? » qu’il entend que la voix n’est pas la bonne. Il regarde son visage. C’est un visage de femme, gentil, un peu surpris. Il ne sait pas si c’est celui de sa mère. La voix dit que non.
+
+— C’est moi, dit-il quand même. Izuma.
+
+— Je vois bien que c’est toi, dit la femme en riant. Mais t’es à qui, toi ?
+
+Il réfléchit. Il connaît la réponse : grand-tante la lui fait répéter le soir, avec les autres choses importantes.
+
+— À Izuna.
+
+La femme le regarde sans comprendre ; elle croit peut-être qu’il redit son prénom de travers. Lui ne comprend pas qu’elle ne comprenne pas, et c’est ça, plus que tout le reste, qui le fait pleurer. Il pleure si fort que des gens se retournent. C’est grâce aux pleurs que sa mère le retrouve.
+
+Elle le serre trop fort. Elle sent l’amidon et la sueur. Elle répète son nom dans ses cheveux. Il se calme presque tout de suite, à cause de l’odeur.
+
+· · ·
+
+Le soir, grand-tante ne crie pas. Elle ne crie jamais. Sur le seuil, elle dit à sa mère qu’une fête n’est pas un endroit pour un enfant de cet âge, encore moins avec une femme qui ne sait pas le surveiller. Sa mère s’incline. Elle reste inclinée longtemps.
+
+De tout l’automne, il n’y a plus de premier du mois.
+
+Izuma pense que c’est la faute de sa mère, puisque grand-tante l’a dit. Il lui en veut un peu. Il ne pense plus à la femme au yukata bleu, sauf parfois, juste avant de s’endormir. Il se demande si elle aurait voulu de lui.
+
+────────────────────────────────
+IV. LA DAME DANS LA CHAMBRE
+(Six ans)
+────────────────────────────────
+
+Grand-tante met presque un an à comprendre.
+
+Il y a eu des signes, qu’elle a pris pour autre chose. L’enfant ne salue pas. L’enfant a appelé « oncle » le jardinier et ignoré son oncle véritable, devant des invités. L’enfant, à la sortie de l’Académie où il vient d’entrer, reste planté devant la porte à chercher des yeux, alors qu’elle l’attend de l’autre côté de la rue, à dix pas, avec sa canne. Elle a appelé ça de l’insolence, puis de la distraction, puis de la timidité. Elle a puni chacune de ces choses à son tour.
+
+Un après-midi de pluie, Izuma entre dans sa chambre pour lui apporter le thé, comme tous les jours, et il trouve une dame assise près de la fenêtre.
+
+Elle porte un kimono gris qu’il ne connaît pas et un fichu sur les cheveux. Elle ne dit rien. Elle regarde la pluie.
+
+Izuma s’incline. Le plateau tremble un peu.
+
+— Pardon. Grand-tante n’est pas là ?
+
+La dame ne répond pas. Il attend. La pluie fait son bruit sur le toit. Il pose le thé par terre, près de la porte, parce qu’il ne sait pas s’il doit le donner à cette dame ou le garder pour grand-tante, et il a déjà reculé d’un pas quand la dame dit :
+
+— Assieds-toi, Izuma.
+
+C’est la voix de grand-tante. Elle sort de la dame.
+
+Il a six ans. Pendant un moment, il croit vraiment que la dame a mangé grand-tante, ou qu’elle a pris sa place, comme les renards dans les histoires de la cuisinière. Il se met à trembler. La dame enlève son fichu : des cheveux gris tirés en arrière, comme ceux de grand-tante. Ça ne prouve rien. Puis elle tousse, parce que grand-tante tousse toujours avant de parler, et c’est la toux qui le décide. Il s’assied.
+
+Elle ne dit rien pendant très longtemps. Ensuite elle va chercher l’album, celui où sont collées les photographies de la famille, et elle lui demande de lui montrer qui est qui. Il essaie. Il connaît les noms. Il ne sait pas où les mettre. Il pose le doigt sur une femme : « C’est toi ? » Ce n’est pas elle. Sur un jeune homme : « Papa ? » Ce n’est pas lui. Sur un petit garçon assis sur les genoux de quelqu’un : « Moi. » Ce n’est pas lui non plus.
+
+Grand-tante referme l’album.
+
+— Tu ne parleras de ça à personne.
+
+Il ne sait pas ce que c’est, « ça ». Il comprend que c’est grave et que c’est à lui. Il dit oui.
+
+· · ·
+
+Le soir même, après le bain, elle le fait asseoir dans le couloir, les yeux fermés, et elle lui apprend à écouter les pas. Les socques de la cuisinière, qui raclent. Le pas du jardinier, qui traîne. Sa canne à elle : deux coups sur le seuil, puis elle entre. « Toujours deux coups. Si tu entends deux coups, c’est moi. »
+
+Les jours suivants, elle lui apprend à regarder les nœuds des ceintures, les ourlets, les sandales, les mains. Elle lui apprend qu’un homme qui parle fort dans l’entrée est presque toujours un oncle, et qu’un homme qui ne dit rien est presque toujours plus important. Elle lui apprend à attendre que les autres parlent les premiers. Elle appelle ça « être attentif ».
+
+Elle ne dit jamais « tricher ». Elle ne donne jamais de nom à ce qu’il a. Dans la maison, ça n’en a pas.
+
+Une nuit, il l’entend parler dans la pièce d’à côté avec quelqu’un dont il ne reconnaît pas la voix. « J’ai mis presque un an », dit-elle. Et plus tard, plus bas : « La branche a déjà fait assez parler d’elle. » Il ne sait pas de quoi elle parle. Il pense que c’est de lui.
+
+À la fin de la semaine, elle lui donne un carnet à couverture de toile grise, de ceux qu’on vend pour tenir les comptes.
+
+— Pour les choses à retenir.
+
+Il y écrit sa première page le soir même, avec ses lettres encore penchées.
+
+[ Carnet — six ans ]
+  GRAND-TANTE
+    la canne. deux coups. après elle rentre.
+    tousse avant de parler.
+    sent le camfre (le coffre des kimonos)
+    rit pas. (si elle rit c’est pas elle)
+
+  MAMAN
+    la pelote à épingles sur le poignet
+    dit I-zu-ma en chantant un peu
+    sent l’amidon et le riz
+
+  LA CUISINIÈRE
+    les socques qui raclent. chante faux.
+
+  LE JARDINIER
+    chapeau de paille. sent la terre.
+    pas dire oncle !!
+
+  ONCLE (LE VRAI)
+    parle fort dans l’entrée.
+
+────────────────────────────────
+V. LES NOMS
+(Six et sept ans)
+────────────────────────────────
+
+S’il y a une chose qu’il fait bien, ce sont les noms.
+
+Le soir, grand-tante sort le registre de sa boîte et il récite. Il commence par le début : Izuna, fils de Tajima, frère de Madara. Puis la colonne qui descend. Il ne se trompe pas. Les noms ne changent pas de veste, ils ne se coupent pas les cheveux, ils restent où on les a mis. À sept ans, il récite la branche entière, avec les dates rouges, plus vite que grand-tante ne pourrait la lire.
+
+C’est la seule chose pour laquelle elle dit « bien ». Elle le dit sans le regarder, en rangeant le registre, et il garde ce « bien » toute la nuit comme un bonbon qu’on ne veut pas finir.
+
+Avec les noms, il y a les phrases. Grand-tante les lui fait répéter avant de dormir, comme d’autres enfants récitent une comptine : « Nous sommes de la branche d’Izuna. Le clan passe avant chacun de nous. Un Uchiha ne se plaint pas. » Il les dit en bâillant. Il ne se demande pas ce qu’elles veulent dire. Elles font partie du coucher, comme le futon qu’on déplie.
+
+· · ·
+
+Un soir, il demande pourquoi Izuna est mort si jeune. Grand-tante répond qu’il est mort à la guerre, contre les Senju, et qu’avant de mourir il a donné ses yeux à son frère, pour que son frère soit plus fort.
+
+Izuma réfléchit longtemps.
+
+— Et après, il voyait avec quoi ?
+
+— Il était mort, Izuma.
+
+— Ah.
+
+Plus tard, à l’Académie, un garçon plus âgé lui dira que ce n’est pas vrai, qu’Izuna n’a rien donné du tout, que c’est Madara qui les a pris. Izuma répondra que c’est faux. Il ne saura pas lequel des deux a raison. Il saura lequel il préfère.
+
+· · ·
+
+Il y a aussi Setsuna. Grand-tante en parle peu. Elle dit qu’il servait dans la police militaire du village, du temps du Second Hokage, et qu’il ne faisait pas confiance au Second. « Il avait raison », ajoute-t-elle. Elle n’explique pas.
+
+L’année de ses sept ans, pendant un cours d’histoire du village, l’instructeur parle des réformes du Second Hokage. Izuma lève la main.
+
+— Mon ancêtre, il disait qu’il fallait pas lui faire confiance.
+
+Toute la classe se retourne. L’instructeur reste un moment sans rien dire, puis il demande qui lui a appris ça.
+
+— Personne, dit Izuma, qui sent qu’il a fait une bêtise sans savoir laquelle. C’est écrit dans le registre.
+
+Ce n’est pas écrit dans le registre. Il a menti pour protéger grand-tante, ou pour se protéger lui, il ne sait pas très bien. Il est puni pour avoir parlé sans y être invité, ce qui lui paraît juste. À la maison, il ne raconte rien. Le soir, en récitant, il passe sur le nom de Setsuna un peu plus vite que sur les autres.
+
+────────────────────────────────
+VI. LA TENUE
+(Sept ans)
+────────────────────────────────
+
+À sept ans, on lui donne un instructeur pour ce que grand-tante appelle « la tenue » : comment s’asseoir, comment servir le thé à un aîné, comment s’incliner, et surtout devant qui, et de combien.
+
+C’est l’un des cadres du clan, et Izuma ne sait pas son nom. Il aurait dû le savoir dès le premier jour ; on le lui a dit, sûrement, et il ne l’a pas retenu, et au bout d’une semaine il était trop tard pour demander. Dans le carnet, il l’appelle l’homme à la voix de pierre, parce que sa voix ne monte jamais et ne descend jamais, même quand il est content, ce qui n’arrive pas souvent.
+
+L’homme à la voix de pierre lui apprend les règles. Un salut léger pour un égal. Plus bas pour un aîné. Plus bas encore, et plus long, pour un ancien du conseil. On salue le premier quand on est le plus jeune. On salue par le nom et par le rang. Ne pas saluer quelqu’un, c’est lui dire qu’il n’existe pas.
+
+Izuma apprend les règles très vite. Il pourrait les réciter comme le registre. Il ne peut pas les appliquer, parce qu’elles commencent toutes par savoir qui on a en face de soi.
+
+Un matin d’automne, dans la rue du sanctuaire, il croise un ancien du conseil qui a changé de veste. Il ne le salue pas. L’ancien s’arrête et le regarde passer. Le soir même, l’homme à la voix de pierre vient parler à grand-tante.
+
+La punition est simple. Le lendemain, de la fin des cours jusqu’à la tombée du jour, Izuma se tiendra devant le portail de la maison et saluera chaque personne qui passe, par son nom et par son rang, comme il se doit. Ainsi il apprendra.
+
+Pour un autre enfant, ce serait un après-midi d’ennui. Izuma ne dort pas de la nuit.
+
+· · ·
+
+Le lendemain, il est devant le portail à l’heure dite. L’homme à la voix de pierre s’assied sur le banc d’en face pour surveiller.
+
+Les gens passent. Izuma s’incline devant chacun, assez bas pour qu’aucun ne puisse se plaindre. Il dit « Bonjour, Ancien », « Bonjour, Tante », « Bonjour, Oncle », en choisissant d’après la voix, la démarche, les mains, les rides qu’il a le temps de compter. Il ne dit aucun nom. Il se trompe deux fois de titre ; une femme rit, un homme fronce les sourcils. Au bout d’une heure, l’homme à la voix de pierre traverse la rue.
+
+— Les noms.
+
+— Oui.
+
+— Tu ne dis aucun nom. Tu les connais, pourtant. Je t’ai entendu réciter ta branche.
+
+Izuma regarde ses sandales. Il voudrait expliquer, mais il n’y a pas de mot dans la maison pour ce qu’il expliquerait, et grand-tante a dit : à personne. L’homme à la voix de pierre prend son silence pour ce à quoi il ressemble, de l’orgueil.
+
+— Jusqu’à ce que tu les dises, alors. Même s’il fait nuit.
+
+· · ·
+
+C’est vers la fin de l’après-midi que l’enfant arrive en sifflotant. Il siffle faux, et à travers un trou entre ses dents de devant, si bien que chaque note a un petit bruit d’air en plus, comme une bouilloire. Il s’arrête, regarde Izuma s’incliner devant une vieille femme, puis devant un homme qui porte des seaux.
+
+— Pourquoi tu fais ça ?
+
+— Je suis puni.
+
+— Pour quoi ?
+
+— J’ai pas salué quelqu’un.
+
+L’enfant trouve ça si bête qu’il s’assoit sur la pierre plate, à côté de lui, pour voir. Il s’appelle Shun. Il le dit tout de suite, sans qu’on le lui demande, et Izuma le répète dans sa tête : Shun, la dent, le sifflement. Shun sort de sa manche un kaki un peu écrasé et le partage en deux avec les doigts.
+
+À chaque personne qui passe, Shun chuchote son nom. Il ne fait pas exprès d’aider. Il aime savoir qui est qui, et il parle tout le temps. « Ça, c’est la mère de Daisuke. Ça, c’est le vieux qui crie sur les chats. Lui, il est dans la police, il a un chien qui s’appelle Riz. » Izuma répète les noms à voix haute en s’inclinant. Sur le banc d’en face, l’homme à la voix de pierre hoche la tête une fois.
+
+À la tombée du jour, deux coups de canne sur le seuil. Grand-tante explique à l’homme à la voix de pierre que l’enfant a de la fièvre depuis le matin et qu’elle aurait dû le garder au lit. L’homme s’incline et s’en va. Izuma n’a pas de fièvre. Grand-tante le sait. Elle lui pose quand même la main sur le front, devant le portail, pour que la rue le voie.
+
+Il ne savait pas qu’elle savait mentir. Il trouve ça rassurant, sans savoir pourquoi.
+
+Il ne lui dit pas que c’est Shun qui lui a soufflé les noms. Elle ne le lui demande pas. Le soir, dans le carnet, il commence deux pages.
+
+[ Carnet — sept ans ]
+  L’HOMME À LA VOIX DE PIERRE
+    la voix monte pas et descend pas.
+    grand. sandales neuves (elles grincent).
+    s’assoit toujours sur le banc d’en face.
+    nom : ??? (trop tard pour demander)
+
+  SHUN
+    siffle à cause de la dent (devant)
+    parle tout le temps
+    sait qui est qui !
+    habite près du canal. sa maman vient de dehors.
+    a partagé un kaki.
+
+────────────────────────────────
+VII. LE CHANT DES PÊCHEURS
+(Sept et huit ans)
+────────────────────────────────
+
+Ce qu’ils font ensemble, pendant presque deux ans, n’a rien de remarquable, et c’est peut-être pour ça que Izuma s’en souvient si bien.
+
+Ils lancent des cailloux dans le canal pour voir lequel fait le plus de ronds. Ils attrapent des cigales à la main dans les érables du bord de l’eau, et ils ramassent les mues que les cigales laissent accrochées à l’écorce : des cigales vides, brunes, parfaitement entières, avec une fente dans le dos par où la vraie est sortie. Izuma les range dans une boîte à thé, sous son futon. Il en a quarante-trois. Shun en a plus, mais Shun les écrase toujours en les mettant dans sa poche.
+
+Shun chante. Il chante tout le temps, des chansons que personne d’autre ne connaît dans le quartier, des chansons de pêcheurs où il est question de filets, de vent du large, d’une fille qui attend au bout d’une jetée, et dont il ne comprend pas la moitié des mots parce que sa mère les lui chante dans le parler de la côte. Izuma n’aime pas spécialement les chansons. Mais il entend Shun à deux rues de distance, et c’est la première fois de sa vie qu’il peut trouver quelqu’un de loin.
+
+· · ·
+
+Dans le quartier, certains appellent Shun « le demi ». Pas méchamment, pas toujours. Izuma a entendu grand-tante dire que les gens du dehors n’élèvent pas leurs enfants comme il faut. Il a entendu un oncle dire que le sang se dilue. Il ne sait pas très bien ce que ça veut dire, mais il sait que c’est vrai, puisque c’est un oncle qui l’a dit.
+
+Un jour de printemps, l’année de leurs huit ans, ils se disputent pour une mue de cigale, une très grande, que chacun prétend avoir vue en premier. Shun la tient dans son poing fermé. Izuma tire sur son poignet. Ils roulent dans l’herbe. Shun est plus fort, il gagne toujours, il est assis sur lui, et Izuma, qui étouffe un peu, qui a de l’herbe dans la bouche, dit la seule chose qui lui vient :
+
+— De toute façon, t’es qu’un demi.
+
+Shun ne dit rien. Il se relève. Il ouvre la main : la mue est écrasée, de toute façon. Il la laisse tomber dans l’herbe et il rentre chez lui en chantant, un peu trop fort.
+
+Le lendemain, il revient au canal comme si de rien n’était. Ils n’en reparlent pas. Les enfants font ça. Izuma est soulagé et n’y pense plus. Shun, peut-être, y pense encore ; ça, le carnet ne le dit pas.
+
+· · ·
+
+L’été de ses huit ans, grand-tante le laisse aller à la fête avec Shun et la mère de Shun. Il a peur, à cause de la dernière fois, et il ne le dit pas. À l’entrée du sanctuaire, la mère de Shun leur achète à chacun un masque de renard en papier mâché, blanc avec des traits rouges, qui tient derrière les oreilles par un élastique.
+
+C’est la plus belle soirée de sa vie, parce que tout le monde porte un masque.
+
+Les enfants courent entre les étals sans savoir qui est qui. Ils se cognent, se trompent, crient des noms au hasard, soulèvent le masque des autres pour vérifier. Pour une fois, tout le monde cherche tout le monde. Shun et lui jouent à se perdre exprès dans la foule et à se retrouver ; Shun se trompe trois fois de renard et tire la manche d’inconnus. Izuma ne se trompe pas une seule fois. Il n’a qu’à attendre la chanson.
+
+Il rentre la voix cassée d’avoir ri, le masque de travers sur le côté de la tête. Il le garde, ensuite, accroché à un clou dans la réserve à futons, où personne ne va jamais.
+
+────────────────────────────────
+VIII. LA PHOTOGRAPHIE
+(Huit ans)
+────────────────────────────────
+
+Le vieil homme qui sent le tabac de pipe habite au bout de la rue du sanctuaire, dans une maison où il y a plus de livres que de meubles. Une fois par mois, grand-tante y envoie Izuma porter des gâteaux de riz. Il le reconnaît à l’odeur, à une toux grasse qui n’est pas celle de grand-tante, et à ce qu’il est le seul vieillard du quartier à rire avant de dire bonjour.
+
+Un après-midi d’hiver, le vieil homme le fait asseoir et sort d’un tiroir un carton jauni.
+
+— Ta grand-tante ne t’a jamais montré ça, je parie.
+
+Ce sont des photographies d’identité, celles qu’on prend le jour où l’on reçoit son bandeau, collées en rangées sur le carton avec un nom écrit sous chacune. Une promotion entière de l’Académie : des garçons de douze ans, pour la plupart. Le vieil homme pose la main à plat sur une rangée, de façon à cacher les noms.
+
+— Ton père est là-dedans. Allez. Lequel ?
+
+Il y en a six. Six garçons en noir, les cheveux noirs, les yeux noirs, le même col, le même air sérieux qu’on prend devant l’appareil. Izuma les regarde un par un, très bien, comme grand-tante le lui a appris. Ce sont tous des visages. Aucun n’est quelqu’un.
+
+Il pourrait dire qu’il ne sait pas. Mais le vieil homme attend, il a l’air content d’avance, et Izuma sent qu’il ne faut pas lui gâcher ça.
+
+Il pose le doigt sur l’un d’eux.
+
+Le vieil homme se tait. Puis il soulève sa main. Sous le garçon que Izuma a montré, il y a écrit, d’une écriture appliquée d’enfant : Uchiha Hayato.
+
+— Ha, fait le vieil homme, et sa voix tremble un peu. Ha. Tu vois. Le sang reconnaît le sang.
+
+Il le répète plusieurs fois, cet après-midi-là. Il dit aussi que Izuma marche comme son père, exactement comme lui, le poids un peu en avant, comme quelqu’un qui a peur d’arriver en retard. Il le raccompagne jusqu’à la porte pour le regarder partir.
+
+Izuma rentre en courant. Il raconte tout à grand-tante, essoufflé, debout dans l’entrée avec ses sandales aux pieds, ce qui ne se fait pas : le carton, la main sur les noms, le garçon qu’il a montré. « Le sang reconnaît le sang », répète-t-il, et il le dit avec la voix du vieil homme, sans faire exprès.
+
+Grand-tante le regarde longtemps. Elle sait ce qu’il voit et ce qu’il ne voit pas.
+
+— Évidemment, dit-elle.
+
+Puis elle lui dit d’enlever ses sandales.
+
+· · ·
+
+La nuit, il ne dort pas. Il essaie de se rappeler le visage du garçon de la photographie et il n’y arrive pas, bien sûr. Il se rappelle le col, la bande de carton, l’écriture appliquée. Il se dit que c’est peut-être vrai, que le sang a reconnu le sang, que ses yeux ne savent pas mais que quelque chose d’autre, en dessous, a su. Il a envie que ce soit vrai si fort qu’au matin, ça l’est presque.
+
+Les jours suivants, il essaie de se voir marcher. Dans les flaques, dans les vitrines de la rue des marchands, dans l’eau du canal. On ne se voit pas marcher. On se voit debout, ou on se voit de travers. Il finit par demander à Shun :
+
+— Comment je marche ?
+
+Shun le regarde, très sérieux, puis il se lève et fait trois pas, le menton en avant, les bras raides, les fesses en arrière, comme un canard pressé. Izuma lui jette une poignée d’herbe. Shun recommence en pire. Ils rient tellement qu’ils doivent s’asseoir.
+
+Le soir, il ajoute des lignes à la page PAPA.
+
+[ Carnet — huit ans ]
+  PAPA
+    — riait fort (dit maman)
+    — tenait mal ses baguettes (dit maman)
+    — le meilleur de sa génération (dit grand-tante)
+    — a fait son devoir (dit grand-tante)
+    — m’a porté au-dessus des carpes (dit maman)
+      ne m’a pas porté (dit grand-tante)
+    — sur la photo du vieux monsieur. je l’ai reconnu.
+      (le sang reconnaît le sang)
+    — marchait comme moi (dit le vieux monsieur)
+      je sais pas comment je marche.
+      (Shun dit : comme un canard. c’est pas vrai)
+
+────────────────────────────────
+IX. LES LANTERNES
+(Neuf ans)
+────────────────────────────────
+
+À neuf ans, Izuma rapporte.
+
+Ça a commencé presque par hasard, l’année d’avant : un garçon avait manqué l’entraînement du matin, et Izuma l’avait dit, parce qu’on lui avait demandé où il était. L’instructeur l’avait remercié devant les autres. Il avait dit : « Au moins un qui comprend ce que veut dire le clan avant tout. »
+
+Depuis, Izuma rapporte. Les kakis volés dans l’arbre d’un ancien. Les deux filles qui se sont battues derrière le sanctuaire. Le garçon qui a dit un gros mot sur le Hokage. Il ne rapporte que des choses vraies, ou des choses qu’il croit vraies. Il se dit que c’est son devoir, et c’en est peut-être un. Il ne se dit pas que les adultes, quand il rapporte, le regardent vraiment, longtemps, comme on regarde quelqu’un, et que c’est le seul moment où ils le font sans parler de son père.
+
+Les autres enfants ont compris avant lui ce que ça faisait de lui. On se tait quand il approche. Shun lui a dit une fois : « T’es pénible, avec ça. » Il a haussé les épaules.
+
+· · ·
+
+Le soir des ancêtres, chaque branche suspend ses lanternes de papier dans la cour du sanctuaire, avec les noms de ses morts peints dessus. On les allume à la nuit tombée et on reste un moment devant, sans parler.
+
+Izuma est arrivé tôt, pour aider grand-tante à monter les marches. Pendant qu’elle parle avec quelqu’un sous l’auvent, il entend un bruit de papier qu’on crève, puis un deuxième. Il se retourne. Trois lanternes pendent, éventrées. Un dos d’enfant s’enfuit entre les piliers : une veste noire, un éventail rouge et blanc entre les omoplates, des cheveux noirs. Le dos tourne au coin du bâtiment et disparaît.
+
+Il ne réfléchit pas. Il court chercher un adulte, n’importe lequel, et il tombe sur l’homme à la voix de pierre, qui aide à porter les bancs.
+
+— Quelqu’un a crevé les lanternes !
+
+L’homme à la voix de pierre pose le banc.
+
+— Qui ?
+
+C’est la question. Izuma le sait au moment où elle est posée. Il pourrait dire : un garçon, je l’ai vu de dos. On lui demanderait lequel. Il dirait qu’il ne sait pas, et il faudrait expliquer pourquoi il ne sait pas, lui qui a tout vu. Autour d’eux, d’autres adultes se sont arrêtés et le regardent, de ce regard-là, celui qu’il aime.
+
+Il dit le premier nom qui lui vient. C’est le nom qui lui vient toujours en premier.
+
+— Shun.
+
+· · ·
+
+Shun est puni le soir même. Il jure que ce n’est pas lui ; tous les enfants punis jurent ça. On le fait s’agenouiller dans la cour devant les anciens et demander pardon aux morts, à voix haute, branche par branche.
+
+Le lendemain, sa mère vient à la maison de la lignée. Elle tient un paquet de gâteaux enveloppé dans un tissu propre. Elle s’agenouille dans l’entrée devant grand-tante, le front presque sur le plancher, et elle demande pardon dans un parler du clan très appliqué, où l’on entend quand même la côte.
+
+Izuma regarde par la fente de la cloison. Il voit le dos de la mère de Shun, qui ne se relève pas. Grand-tante accepte les gâteaux. Elle est polie. Quand la porte s’est refermée, elle dit, à personne en particulier :
+
+— Les gens du dehors n’apprennent pas à leurs enfants à respecter les morts.
+
+Izuma est d’accord. Il est d’accord très fort, pour ne pas entendre le reste.
+
+· · ·
+
+Six jours plus tard, il est au canal, seul, quand il entend des voix d’enfants de l’autre côté des roseaux. Trois ou quatre garçons. L’un d’eux raconte quelque chose, les autres rient.
+
+— … et c’est le demi qui a pris. J’étais à deux mètres. Il m’a même pas vu, l’autre, le fils de Hayato. Il a montré le demi direct.
+
+Ils rient. Izuma se lève. Entre les roseaux, il voit trois dos de garçons, trois vestes noires, trois éventails, trois têtes noires. La voix ne dit plus rien. Ils s’en vont vers les maisons en se bousculant.
+
+Il connaît la voix, maintenant. Il ne sait pas à qui elle est.
+
+Il ne dit rien à personne. Il se dit que de toute façon on ne le croirait pas, ce qui est faux : on l’a toujours cru, c’est même tout le problème. Il se dit que Shun avait sûrement fait autre chose, un autre jour, qui méritait une punition. Il se dit que s’il parle, on saura qu’il a montré quelqu’un sans le reconnaître, et on demandera pourquoi.
+
+Quand Shun vient le trouver, une semaine après, il ne chante pas.
+
+— C’était pas moi.
+
+— Si. Je t’ai vu.
+
+Shun le regarde longtemps. Il ouvre la bouche, la referme. Il s’en va.
+
+· · ·
+
+Ils ne se parlent plus. Pendant l’automne, la dent de devant de Shun finit de pousser, une dent d’adulte, trop grande pour sa bouche. Il ne siffle plus sur les S. Et il ne chante plus quand Izuma est dans la même rue, ou alors Izuma ne l’entend plus, ce qui revient au même.
+
+Au printemps, à l’Académie, un garçon le bouscule dans un couloir et lui dit « pardon » d’une voix qu’il ne connaît pas. Izuma met trois jours à comprendre, à cause d’une façon de se gratter la nuque, que c’était peut-être Shun.
+
+[ Carnet — neuf ans ]
+  SHUN
+    siffle à cause de la dent (devant)
+    chante des chansons de pêcheurs. on l’entend de loin.
+    sait qui est qui !
+    habite près du canal. sa maman vient de dehors.
+    [barré : mon ami]
+    la dent a repoussé. siffle plus.
+    chante plus (quand je suis là ?)
+    se gratte la nuque ???
+
+  LA VOIX DU CANAL
+    garçon. mon âge à peu près.
+    rit avant les autres.
+    « le demi a pris »
+    nom : ?
+
+────────────────────────────────
+X. LE NOM DU SOIR
+(Dix ans)
+────────────────────────────────
+
+L’automne de ses dix ans, grand-tante commence à lui demander de lire le registre à voix haute.
+
+Elle ne dit pas pourquoi. Elle dit : « Lis, toi, tu vas plus vite. » Elle tient la lampe et lui le registre, et il lit les colonnes l’une après l’autre, Izuna, Setsuna, les autres, et parfois elle le corrige sur une date, de mémoire, sans regarder la page. Elle approche beaucoup son visage des choses, ces temps-ci. Elle a cassé deux tasses depuis la fin de l’été. Elle lui coupe toujours les cheveux elle-même, dans la cour, à la nouvelle lune, et la frange est de travers ; personne n’ose le lui dire. Pour économiser l’huile, elle baisse la lampe de plus en plus tôt.
+
+C’est un soir de novembre, comme ça, que ça arrive pour la première fois.
+
+Il rentre tard du terrain d’entraînement. Il a encore raté la Boule de feu suprême, il a encore la lèvre brûlée. Il entre dans la pièce où elle se tient près du brasero. La lampe est basse. Elle lève la tête.
+
+— Hayato. Tu rentres tard, ces temps-ci.
+
+Il s’arrête sur le seuil.
+
+C’est sa voix, la voix de grand-tante, elle a toussé avant comme toujours. Mais il y a dedans quelque chose qu’il n’y a jamais entendu, une douceur fatiguée, comme quand on parle à quelqu’un qu’on a attendu longtemps.
+
+— Tu as mangé ?
+
+Il devrait dire : c’est Izuma. Il a la phrase dans la bouche.
+
+— Oui.
+
+— Viens là, que je te voie.
+
+Il s’assied près d’elle. Elle lève la main et lui touche les cheveux, au-dessus de l’oreille, à l’endroit où elle les coupe trop court. Elle ne l’a jamais fait. Il ne bouge pas. Il ne respire presque plus, comme les premières nuits, dans la chambre qui craquait.
+
+— Tu es maigre.
+
+— Pardon.
+
+Elle rit un peu. Il ne l’a jamais entendue rire. Il pense très vite à la première page du carnet, si elle rit c’est pas elle, et il a peur, et il reste.
+
+· · ·
+
+Le lendemain matin, elle est comme d’habitude. Elle l’appelle Izuma. Elle lui dit qu’il va être en retard. Ni l’un ni l’autre ne parle de la veille. Il ne sait pas si elle s’en souvient. Il ne sait pas si elle s’est trompée, ou si elle l’a fait exprès, ou si c’est encore autre chose, une chose qui arrive aux vieilles personnes et dont on ne parle pas devant les enfants.
+
+Ça recommence pendant l’hiver. Pas souvent. Un soir sur dix, peut-être, quand la lampe est basse. Hayato, tu rentres tard. Hayato, tu as froid. Hayato, ta mère disait déjà que tu ne mangeais pas assez.
+
+Il ne la corrige jamais.
+
+Il ne s’est pas dit qu’il ne la corrigerait pas. Il ne l’a pas décidé. Simplement, chaque fois, la phrase « c’est Izuma » reste où elle est, et à la place il dit oui, ou pardon, ou rien, et il la laisse lui toucher les cheveux. Certains soirs, il s’est mis à rentrer tard exprès. Il ne s’en est pas aperçu.
+
+Une fois, une seule, il a répondu avant qu’elle ait fini le nom.
+
+────────────────────────────────
+XI. CE QU’IL EST MAINTENANT
+(Dix ans et demi)
+────────────────────────────────
+
+Aujourd’hui, Izuma a dix ans et demi.
+
+Il est plutôt petit pour son âge et il se tient très droit, ce qui le fait paraître plus raide que fier, ou plus fier que raide, selon qui le regarde.
+
+À l’Académie, il est moyen. Il réussit les épreuves écrites, surtout quand il s’agit d’apprendre des listes ; il connaît l’histoire du village par cœur, avec les dates, et dans la version de grand-tante. Au lancer de kunai, sur cible fixe, il est correct, parfois un peu mieux : les cibles ne demandent pas qu’on les reconnaisse. Au combat à mains nues, il est mauvais, et pas seulement parce qu’il est petit. Dans les exercices à plusieurs, quand les élèves changent de place, il perd la trace de qui est qui ; il lui est arrivé de frapper un camarade de sa propre équipe, puis de s’excuser auprès du mauvais. Au shōgi, il perd contre tout le monde.
+
+La Métamorphose, qu’on apprend dès la première année, il ne l’a validée que de justesse. Pour prendre l’apparence de quelqu’un, il faut avoir son visage en tête. Les métamorphoses de Izuma ont des visages, mais ce sont des visages de personne. L’instructeur a fini par accepter qu’il se change en vieil homme quelconque, en notant dans la marge : « manque de concentration ».
+
+La Boule de feu suprême, que les enfants du clan apprennent en famille et dont on dit qu’elle fait d’eux des Uchiha à part entière, il ne la réussit pas. Il produit une flamme grosse comme le poing, qui meurt avant d’avoir quitté ses lèvres. Grand-tante dit que Hayato l’a réussie à sept ans. Le vieil homme à la pipe dit à huit, au troisième essai. Izuma s’entraîne seul, le soir, derrière la réserve, au-dessus du bassin, et il a toujours une petite brûlure au coin de la bouche, qu’il cache en se mordant la lèvre.
+
+Il n’a pas de Sharingan. Il n’y pense pas souvent. Quand il y pense, il se demande surtout ce qu’on voit avec, et si ça l’aiderait, et il n’ose le demander à personne, parce que la question elle-même en dirait trop.
+
+· · ·
+
+Le premier jour de chaque mois, il va chez sa mère. Il a le droit d’y rester jusqu’au soir. La petite maison du canal sent toujours l’amidon ; il y a des rouleaux de tissu noir contre tous les murs et, sur la table, un pot de fil rouge pour les éventails. Sa mère lui fait des patates douces au sucre, qu’il adore et qu’il ne mange jamais devant grand-tante.
+
+Quand elle arrive quelque part où il se trouve, elle dit toujours : « C’est maman. » Même quand il l’a déjà reconnue. Il trouve ça gênant, un peu bébé. Il ne s’est jamais demandé pourquoi elle faisait ça.
+
+Il ne lui a pas parlé des soirs. Il ne lui a pas parlé des lanternes. Quand ils croisent des garçons de l’Académie dans la rue du canal, il marche un peu devant elle, comme s’il était seul.
+
+Avec grand-tante, rien n’a changé. Elle le corrige, il obéit ; il lui apporte le thé, il lui lit le registre, il lui masse les mains quand elles lui font mal, sans qu’elle le lui ait jamais demandé. Il l’aime. Si on lui demandait pourquoi, il ne comprendrait pas la question.
+
+L’homme à la voix de pierre pense toujours que Izuma est orgueilleux, qu’il se croit au-dessus des autres parce qu’il est de la branche d’Izuna, et que ça lui passera. Izuma ne connaît toujours pas son nom.
+
+Chez les anciens, certains le plaignent, à cause de son père. D’autres le trouvent froid, parce qu’il ne salue jamais le premier et ne dit jamais les noms. Il n’est pas froid. Il attend qu’on lui parle, pour savoir à qui il parle.
+
+Les enfants de son âge se méfient de lui. Il n’a pas d’ami. Il dirait qu’il n’en a pas besoin. Il pleure facilement, d’un reproche, d’une voix trop sèche, d’une chanson entendue de loin, et il a appris à le faire sans bruit, dans la réserve à futons, sous le masque de renard accroché à son clou.
+
+· · ·
+
+Ce qu’il croit, si on le lui demandait : que le clan passe avant tout. Que le sang reconnaît le sang. Que la branche d’Izuna est la plus ancienne et la plus pure. Que son père était le meilleur de sa génération. Que les gens du dehors n’élèvent pas leurs enfants comme il faut. Que rapporter, c’est servir. Qu’un jour il réussira la Boule de feu.
+
+Ce qu’il voudrait, il ne saurait pas le dire. Quelque chose comme : que grand-tante le regarde, le matin, comme elle le regarde certains soirs. Mais il ne le dirait pas comme ça. Il dirait qu’il voudrait réussir la Boule de feu.
+
+────────────────────────────────
+ÉPILOGUE — LA PAGE MOI
+(Ce soir)
+────────────────────────────────
+
+Ce soir, la lampe est éteinte depuis longtemps. Sous le futon, à côté de la boîte à thé où il y a toujours quarante-trois cigales vides, il y a le carnet.
+
+Il l’ouvre à la page MOI. Il la connaît par cœur, mais il la relit à la lumière qui vient de la rue. Puis il tient le crayon longtemps au-dessus de la ligne vide, et il écrit, très soigneusement, de sa plus belle écriture, celle du registre.
+
+[ Carnet — de six à dix ans ]
+  MOI
+    — cheveux noirs. yeux noirs. (6 ans)
+    — le visage de papa (dit tout le monde)
+    — marche comme papa (dit le vieux monsieur). je sais pas comment je marche.
+    — petit (dit l’Académie)
+    — boule de feu : grosse comme le poing
+    — répond quand grand-tante dit Hayato.
+
+Il relit. Il trouve que c’est bien écrit. Il referme le carnet.
+
+Dehors, quelqu’un passe dans la rue. Un pas qu’il ne connaît pas. Il écoute jusqu’au bout de la rue, pour s’en souvenir.
+
+════════════════════════════════════════════════
+CE QU’IL DIRAIT, CE QUE L’ON COMPREND  ·  Étude psychologique
+════════════════════════════════════════════════
+
+Ce que Izuma pense de lui-même et ce que le lecteur comprend ne coïncident presque jamais. Cet écart, c’est le personnage.
+
+À gauche, ce qu’il répondrait si on l’interrogeait, avec ses mots. À droite, ce que l’on peut lire derrière.
+
+LE SANG
+  Ce qu’il dirait : « Le sang reconnaît le sang. Je l’ai reconnu sur la photo du vieux monsieur. »
+  Ce que l’on comprend : Il a eu de la chance, une fois. Il ne reconnaît personne à ce dont il hérite ; il ne connaît les siens que par ce qu’ils font. Il défend avec ferveur une appartenance qu’il ne peut pas percevoir, et sa ferveur vient peut-être de là : c’est la seule chose dont on lui assure qu’elle est en lui sans qu’il ait besoin de la voir.
+
+LE DEVOIR
+  Ce qu’il dirait : « Je rapporte parce que le clan passe avant tout. Les grands me remercient. »
+  Ce que l’on comprend : Les adultes ne le regardent vraiment que lorsqu’il rapporte, et ils ne parlent pas de son père à ce moment-là. Le devoir est la forme acceptable de son besoin d’être vu. Il n’en a aucune idée.
+
+LE PÈRE
+  Ce qu’il dirait : « Mon père était le meilleur de sa génération. Il a fait son devoir. Il me manque. »
+  Ce que l’on comprend : Il ne sait de lui que des phrases qui se contredisent. Il ne lui manque pas vraiment : il dit qu’il lui manque parce que c’est ce qu’on attend. Il est jaloux de lui, de la place qu’il occupe dans le regard des autres, et il ne pourrait pas se le dire.
+
+GRAND-TANTE
+  Ce qu’il dirait : « Grand-tante est sévère parce qu’elle veut que je sois digne. C’est elle qui m’a appris à être attentif. »
+  Ce que l’on comprend : C’est vrai. Elle l’aime, et elle l’aime en partie à travers Hayato. Elle l’a protégé en lui apprenant à cacher ce qu’il est. Ces deux choses sont de l’amour, et toutes les deux lui font du mal.
+
+MAMAN
+  Ce qu’il dirait : « Maman est gentille. Sa maison est petite. Elle dit "c’est maman", c’est bébé. »
+  Ce que l’on comprend : Il l’aime chez elle et il a honte d’elle dans la rue. Il croit encore, quelque part, que la fête de ses cinq ans était sa faute à elle. Elle a peut-être compris son secret toute seule, depuis longtemps, sans rien dire. Il ne s’est jamais demandé ce que leur séparation lui a coûté.
+
+LE SOIR
+  Ce qu’il dirait : (Il n’en parlerait pas. S’il y était obligé :) « Grand-tante est fatiguée, le soir. »
+  Ce que l’on comprend : Il a découvert qu’on pouvait l’aimer davantage s’il était quelqu’un d’autre, et il a laissé faire. Pour être reconnu, il accepte de ne pas l’être. C’est le nœud du personnage, et il ne se dénouera pas tout seul.
+
+[La contradiction]
+Il croit que ce qui fait un Uchiha, c’est le sang, et que le sang se voit sur un visage. Il ne voit pas les visages.
+
+Il ne connaît les siens que par leurs gestes, et il a défendu la pureté de la lignée devant le seul ami qu’il savait reconnaître, grâce à une chanson venue de l’extérieur du clan.
+
+En jeu, cette contradiction produit des injustices (il méprise ce qui le sauve), des malentendus (on le croit fier alors qu’il est perdu), des attachements qu’il ne s’explique pas (il s’attachera à quelqu’un pour un pas ou une voix, quel que soit son sang) et des choix sans bonne réponse. Elle n’est pas résolue. C’est un moteur, pas une leçon.
+
+Ce qu’il croit
+--------------
+• Le clan passe avant l’individu.
+• Le sang reconnaît le sang.
+• La branche d’Izuna est la plus ancienne et la plus pure.
+• Les gens du dehors élèvent mal leurs enfants.
+• Rapporter, c’est servir.
+• Il ne faut jamais dire « je ne sais pas ».
+
+Ce dont il a besoin, sans le savoir
+-----------------------------------
+• Qu’on l’appelle par son prénom sans parler de son père.
+• Qu’on lui dise qui l’on est avant qu’il ait à deviner.
+• Qu’on le regarde sans qu’il ait besoin de dénoncer quelqu’un.
+• Qu’on l’aime sans qu’il ressemble à personne.
+
+Ce qui lui fait peur
+--------------------
+• Être découvert.
+• Les foules, les cérémonies, les fêtes sans masques.
+• Qu’un inconnu l’appelle par son nom.
+• Le portail.
+• Que grand-tante cesse de l’appeler Hayato. Qu’elle continue.
+
+Ses défauts, à jouer
+--------------------
+• Il rapporte. Pour être vu, il dénonce les autres enfants, et il le fait avec bonne conscience. On se méfie de lui, on l’écarte, et il a déjà fait punir un innocent.
+• Il ment, mal, et il s’entête. Bluffer pour cacher qu’il ne reconnaît personne lui a appris à mentir sur le reste. Pris en faute, il ne recule pas : il insiste.
+• Il répète le mépris. Il reprend sans le comprendre le discours sur le sang et les gens du dehors. Il peut dire des choses cruelles à un enfant « moins pur », et les penser au moment où il les dit.
+• Il a honte de sa mère. Il marche devant elle quand on les regarde.
+• Il se tait quand la vérité coûte. Il sait que Shun était innocent. Il n’a rien dit.
+• Il est jaloux. Des enfants qu’un père vient chercher, et de son propre père. Il peut être méchant avec eux sans comprendre pourquoi.
+• Il déborde. Larmes, colères brusques quand il est perdu dans une foule, fuite dans la réserve. Il cache ses émotions ; il ne les maîtrise pas.
+
+Ce qui le garde vivant
+----------------------
+• Il est tendre : il masse les mains de sa grand-tante, porte les gâteaux du vieil homme, garde un masque de fête comme un trésor.
+• Il a une très bonne mémoire des noms et des listes, et rien de plus.
+• Il remarque les voix, les pas, les habitudes que personne ne regarde, et il se trompe souvent sur ce qu’ils veulent dire.
+• Il est drôle sans le vouloir. (« Et après, il voyait avec quoi ? »)
+• Il est obstiné : il recommence la Boule de feu tous les soirs.
+• Il est sincère quand il oublie d’avoir peur.
+
+Ses limites
+-----------
+Combat. Élève moyen. Correct au lancer sur cible fixe, mauvais au corps-à-corps et dans les exercices à plusieurs. Métamorphose validée de justesse, et défaillante dès qu’il faut imiter quelqu’un de précis. Boule de feu suprême non acquise. Pas de Sharingan, aucune technique inventée, aucun potentiel caché.
+
+Intelligence. Excellente mémoire des noms, des dates et des règles. Raisonnement concret et littéral, celui de son âge. Il perd au shōgi contre tout le monde. Il ne comprend rien à la politique du village et répète les phrases de sa grand-tante. Il est facile à manipuler pour un adulte qui le flatte, ou qui affirme avec assez d’assurance : « C’est moi. »
+
+Maturité. Il dépend de l’approbation des adultes. Il est maladroit avec ses émotions. Il tient aux règles, parce que les règles ne changent pas de visage. Il ne sait pas ce qu’il veut. Il se trompe souvent, et ne le voit pas toujours.
+
+════════════════════════════════════════════════
+LES VISAGES  ·  Particularité désavantageuse
+════════════════════════════════════════════════
+
+Izuma ne reconnaît pas les visages. Il les voit ; il ne les retient pas.
+
+Ce que c’est
+------------
+Hors RP, cette condition existe : c’est la prosopagnosie développementale, parfois appelée cécité des visages. Elle est présente dès la naissance, sans lésion, et toucherait environ une personne sur cinquante. Elle n’a rien à voir avec la vue, l’intelligence ou la mémoire en général. Les personnes concernées perçoivent les traits d’un visage, son expression, l’âge ou l’humeur de quelqu’un, mais ces traits ne s’assemblent pas en une personne reconnaissable. Beaucoup ne s’en rendent compte que tard : enfants, elles pensent que tout le monde voit comme elles.
+
+Dans l’univers, la chose n’a pas de nom. Kiyo ne lui en a jamais donné. Elle est connue de Kiyo, et d’au moins une autre personne, dont Izuma a entendu la voix une nuit sans la reconnaître. Sa mère l’a peut-être devinée. Personne d’autre ne sait.
+
+Ce qu’il perçoit
+----------------
+Un visage, pour lui, est un ensemble de détails. Il peut dire si quelqu’un sourit ou se fâche, s’il est vieux ou jeune. Il ne peut pas dire qui c’est. Un visage vu il y a une heure est un visage neuf. Il ne se reconnaît pas toujours sur une photographie de groupe.
+
+Comment il compense
+-------------------
+La voix, d’abord. Puis le pas, le bruit des sandales, la toux, la façon de se tenir, les mains, une cicatrice, une odeur, un vêtement, l’endroit et l’heure : l’homme derrière l’échoppe de thé est l’homme du thé parce qu’il est derrière l’échoppe de thé. Et le carnet, où il note tout cela.
+
+Pourquoi c’est pire dans le quartier
+------------------------------------
+Les personnes qui ne reconnaissent pas les visages s’appuient beaucoup sur les cheveux et les vêtements. Chez les Uchiha, tout le monde a les cheveux noirs et les yeux sombres, tout le monde porte du noir et le même éventail. Izuma se repère mieux dans le village, au milieu des cheveux blonds, roses ou gris, que dans sa propre rue.
+
+Conséquences en jeu
+-------------------
+• Il ne salue pas, ou il salue mal, ou il se trompe de titre. On le croit froid, insolent ou orgueilleux.
+• Il ne dit jamais un nom le premier. Il attend qu’on parle.
+• Il ne retrouve personne dans une foule, une cérémonie, une cour d’entraînement.
+• Il peut suivre la mauvaise personne, obéir à un inconnu, confier un secret à qui il ne fallait pas.
+• Il peut être trompé par quelqu’un qui porte la veste d’un autre, ou qui affirme simplement « c’est moi » avec assurance.
+• Il ne peut pas identifier une cible d’après une photographie, ni reconnaître un visage aperçu pendant une mission.
+• En exercice à plusieurs, il perd la trace de ses partenaires et de ses adversaires.
+• Sa Métamorphose échoue dès qu’il doit imiter quelqu’un de précis.
+• Il sort épuisé et inquiet de chaque rassemblement du clan.
+
+Ce que ce n’est pas
+-------------------
+• Ce n’est pas un pouvoir caché. Cela ne le protège ni du genjutsu ni des déguisements, au contraire.
+• Le Sharingan, s’il s’éveille un jour, ne la corrigera pas : ce n’est pas l’œil qui est en cause, c’est la reconnaissance. [à confirmer par le staff]
+• Elle ne disparaîtra pas avec l’âge. Ses stratégies peuvent s’améliorer ; la condition reste.
+• Elle n’explique pas ses défauts. Il rapporte parce qu’il veut être vu, pas à cause de ses yeux.
+
+Comment je la jouerai
+---------------------
+• Aucune information hors RP (nom affiché, tenue reconnue côté joueur, échanges sur Discord) ne servira à l’aider à identifier quelqu’un.
+• Il attend que les autres parlent. Il demande de façon détournée, ou il ne demande pas.
+• Il se trompera vraiment, y compris quand ça me dessert.
+• Il ne la confiera pas facilement. Si elle est découverte, ce sera en jeu, avec des conséquences.
+
+Pour les autres joueurs
+-----------------------
+Vous n’avez rien à faire de particulier. Si vous voulez en jouer : changez de veste, restez silencieux, prétendez être quelqu’un d’autre, mettez-le à l’épreuve. Si votre personnage découvre le secret, ce qu’il en fait vous appartient : le garder, le dire, s’en servir.
+
+[Validation] C’est une condition humaine réelle, non surnaturelle, qui ne donne aucun avantage. Je la soumets à validation si le règlement le demande. Points à confirmer : la particularité elle-même ; l’interprétation de la Métamorphose ; l’absence d’effet du Sharingan. La représentation s’appuie sur des témoignages de personnes concernées et cherche à éviter la caricature ; si un membre du serveur vit avec cette condition et souhaite corriger quelque chose, je l’écouterai.
+
+════════════════════════════════════════════════
+LES PAGES DES AUTRES  ·  Relations familiales et claniques
+════════════════════════════════════════════════
+
+Chaque page dit comment Izuma reconnaît quelqu’un, puis, en clair, ce que la relation permet de jouer.
+
+Les pages marquées [place libre] sont des rôles que des joueurs peuvent prendre. Rien n’y est décidé à leur place : ni leurs sentiments, ni leurs réactions.
+
+GRAND-TANTE  [PNJ proposé]
+  (carnet) la canne, deux coups. tousse avant de parler. sent le camphre. approche son visage des choses.
+  Uchiha Kiyo. Gardienne du registre de la branche ; elle a déjà élevé Hayato. Sévère, juste selon ses règles, attachée à la pureté de la lignée. Elle a caché la particularité de Izuma pour le protéger, et pour protéger la branche. Sa vue baisse ; certains soirs, elle l’appelle Hayato.
+  Si les responsables préfèrent qu’un joueur l’incarne, ou qu’une figure existante prenne sa place, le reste de la candidature tient.
+
+MAMAN  [PNJ, reprenable]
+  (carnet) la pelote à épingles au poignet. dit I-zu-ma en trois notes. dit « c’est maman ».
+  Uchiha Sae. D’une branche cadette, couturière : elle coud les éventails d’une partie du quartier. On lui a laissé le premier jour du mois et les vêtements de son fils. Izuma l’aime chez elle et a honte d’elle dans la rue.
+  Ce qu’elle sait, ce qu’elle a accepté ou refusé quand on lui a pris son fils : à jouer.
+
+PAPA  [réservé aux responsables]
+  (carnet) ? (rien de sûr)
+  Uchiha Hayato. Disparu quand Izuma avait trois ans. Le registre n’a pas de date rouge à côté de son nom. Les versions se contredisent : « il a fait son devoir » pour Kiyo, « il est parti un matin » pour Sae, et des rumeurs d’enfants à l’Académie.
+  Ni son sort ni ses raisons ne sont fixés. Les responsables peuvent en faire ce qu’ils veulent, y compris rien.
+
+L’HOMME À LA VOIX DE PIERRE  [place libre : un cadre]
+  (carnet) la voix monte pas et descend pas. sandales qui grincent. nom : ???
+  Il lui a enseigné la tenue et l’a puni au portail. Il le croit orgueilleux. Il ne sait rien des visages.
+  Si vous jouez un cadre ou un instructeur du clan, vous pouvez être lui. Izuma ne connaît pas votre nom et n’ose plus le demander depuis trois ans.
+
+LE VIEUX MONSIEUR À LA PIPE  [place libre : un ancien]
+  (carnet) tabac de pipe. toux grasse. rit avant de dire bonjour.
+  Il a connu Hayato enfant et garde le carton de photographies de sa promotion. C’est lui qui a dit : « Le sang reconnaît le sang. »
+  Un ancien peut l’incarner. C’est par lui que passent les souvenirs de Hayato, et il peut en raconter d’autres, vrais ou non.
+
+SHUN  [PNJ, reprenable]
+  (carnet) siffle plus. chante plus (quand je suis là ?). se gratte la nuque ???
+  Son seul ami, de sept à neuf ans. Fils d’un Uchiha et d’une femme d’un village de pêcheurs. Puni à la place d’un autre à cause de Izuma. Ils ne se parlent plus, et Izuma ne sait plus le reconnaître.
+  Un joueur peut le reprendre. Une réconciliation n’est pas due.
+
+LA VOIX DU CANAL  [place libre : un enfant]
+  (carnet) garçon. mon âge à peu près. rit avant les autres. nom : ?
+  Le vrai coupable des lanternes. Izuma connaît sa voix, pas son visage.
+  Si vous jouez un enfant du clan, vous pouvez être lui, ou l’un des deux qui riaient avec lui. Ce que vous ferez le jour où il reconnaîtra votre voix vous appartient.
+
+LES COUSINS DU REGISTRE  [membres de la lignée]
+  (carnet) (pas encore de page)
+  Tout membre de la branche d’Izuna ou de la descendance de Setsuna est dans le registre. Izuma connaît votre nom, votre date de naissance et le nom de vos grands-parents. Il ne sait pas à quoi vous ressemblez.
+
+CEUX QUI TIENNENT AUX TRADITIONS  [place libre]
+  Il vous admirera vite, et trop. Il répétera vos phrases. Il peut devenir votre petit rapporteur, et il en sera fier. C’est un danger pour lui et une tentation pour vous.
+
+CEUX QUI VOIENT LE DEVOIR AUTREMENT  [place libre]
+  Un adulte qui l’appelle « Izuma », sans « le petit de Hayato », comptera pour lui plus que de raison. Il ne comprendra pas pourquoi. Au début, il pourra aussi vous mépriser, parce que vous ne parlez pas comme sa grand-tante.
+
+?  [votre page]
+  (carnet) voix : / pas : / habitude :
+  Il lui faut une voix, un pas, une habitude. Le reste viendra en jeu.
+
+════════════════════════════════════════════════
+CE QU’IL VEUT, À SA TAILLE  ·  Objectifs RP
+════════════════════════════════════════════════
+
+Court terme
+-----------
+Les prochaines semaines
+
+• Faire une vraie flamme. Pas une étincelle : une boule, même petite.
+• Apprendre le nom de l’homme à la voix de pierre sans avoir à le demander.
+• Passer un mois entier sans être puni pour un salut manqué.
+• Remplir de nouvelles pages du carnet.
+• Savoir de nouveau reconnaître Shun. Sans lui parler, si possible.
+• Que grand-tante dise « bien » pour autre chose que le registre.
+
+Moyen terme
+-----------
+Si le jeu les amène ; ils peuvent changer ou être abandonnés
+
+• Poser une question directe sur son père, à quelqu’un, une fois.
+• Dire la vérité sur les lanternes, ou décider de ne jamais la dire.
+• Confier son secret à quelqu’un, ou être découvert.
+• Dire un soir : « C’est Izuma. » Ou ne jamais le dire.
+• Passer une journée chez sa mère sans marcher devant elle.
+• Devenir genin, sans briller.
+
+Long terme
+----------
+Des directions possibles, pas un destin
+
+• Devenir un shinobi ordinaire et utile au clan, malgré les visages.
+• Devenir, comme Kiyo, un gardien rigide du registre et de la pureté.
+• Ou s’en détourner, le jour où il comprendra ce qu’il a fait à Shun.
+• Apprendre ce qu’est devenu Hayato, ou apprendre à vivre sans le savoir.
+• Changer profondément à l’adolescence, dans un sens que personne ne peut prévoir aujourd’hui, pas même lui.
+
+════════════════════════════════════════════════
+CE QU’IL APPORTE AUX AUTRES, MÊME QUAND IL ÉCHOUE  ·  Potentiel RP collectif
+════════════════════════════════════════════════
+
+01 · Le portail
+Il est de nouveau puni devant le portail. N’importe quel adulte peut s’arrêter, le saluer, le reprendre, ou lui souffler un nom.
+(Tout le clan)
+
+02 · L’épreuve
+Quelqu’un remarque qu’il ne dit jamais les noms et le met à l’épreuve : une veste empruntée, un long silence, une fausse identité.
+(Un adulte curieux, un enfant malin)
+
+03 · Le carnet perdu
+Le carnet tombe d’une poche. Celui qui le lit découvre le secret, et aussi ce que Izuma a écrit sur lui : « parle fort, sent la sueur ».
+(N’importe qui)
+
+04 · La voix du canal
+Un jour, il reconnaît la voix. Que fait-il ? Que faites-vous ?
+(Un enfant du clan)
+
+05 · Les versions du père
+Chaque adulte qui a connu Hayato peut lui en donner une version. Il les note toutes et croit la plus glorieuse. Vous avez le droit de mentir.
+(Anciens, cadres)
+
+06 · Le soir
+Un visiteur, chez Kiyo, à la tombée de la nuit, l’entend appeler l’enfant « Hayato ». Et l’entend répondre.
+(Un membre de la famille, un cadre)
+
+07 · La Boule de feu
+Quelqu’un le surprend à s’entraîner derrière la réserve, la lèvre brûlée. Se moquer de lui, l’aider, le dire à Kiyo.
+(Un aîné, un adolescent du clan)
+
+08 · Le petit rapporteur
+Un adulte attaché aux traditions peut s’en servir comme informateur auprès des autres enfants. Il dira oui, et il en sera fier.
+(Un traditionaliste)
+
+09 · L’exercice de la cible
+Retrouver une personne d’après une photographie, dans la foule du marché. Il échouera, et il faudra bien expliquer pourquoi.
+(Un instructeur, une équipe)
+
+10 · Les cérémonies
+Rassemblements, deuils, fêtes : il y est perdu. Celui qui reste à côté de lui et dit son propre nom en arrivant deviendra quelqu’un pour lui.
+(Tout le clan)
+
+11 · Shun
+Shun peut être repris par un joueur. Réconciliation, rancune, indifférence : rien n’est dû.
+(Un joueur enfant)
+
+12 · Les cousins
+Un membre de la lignée croise Izuma, qui récite sa date de naissance et le nom de ses grands-parents, puis demande poliment à qui il parle.
+(La lignée d’Izuna et de Setsuna)
+
+Il ne demande pas qu’on s’occupe de lui. Il demande, sans le savoir, qu’on se présente.
+
+════════════════════════════════════════════════
+VÉRIFICATIONS  ·  Contrôle de cohérence
+════════════════════════════════════════════════
+
+✓ Âge. Dix ans et demi à la fin du récit ; il aura onze ans l’été prochain.
+✓ Comportements d’âge. Pensée magique à six ans (la dame qui a « mangé » sa grand-tante), règles apprises par cœur à sept, morale de « bon garçon » et besoin d’approbation à neuf, incapacité à nommer ce qu’il ressent à dix. Il ne philosophe jamais.
+✓ Puissance. Élève moyen, pas de Boule de feu, Métamorphose défaillante, pas de Sharingan, aucune technique inventée.
+✓ Intelligence. Bonne mémoire des listes, et rien d’autre. Manipulable, mauvais au shōgi, il ne comprend pas la politique qu’il répète.
+✓ Philosophie. Portée par des situations (la planche, le portail, les lanternes, le nom du soir), jamais par un discours de l’enfant.
+✓ Faiblesse. La cécité des visages le pénalise en combat, en mission, en société et dans sa propre famille, et elle ne disparaîtra pas.
+✓ Défauts réels. Rapporteur, menteur, méprisant envers « les gens du dehors », lâche quand la vérité coûte. Il a déjà fait punir un innocent.
+✓ Lore Uchiha. Izuna et Setsuna conformes au canon ; aucun exploit inventé ; générations intermédiaires ajustables.
+✓ Le père. Disparu, sort non fixé, laissé aux responsables.
+✓ Liberté des autres joueurs. Les adultes de son enfance sont anonymes ; Kiyo, Sae et Shun sont modifiables ou reprenables ; aucune réaction n’est imposée.
+✓ Potentiel de jeu. Douze accroches ouvertes, un objet de jeu (le carnet), un secret à découvrir, une injustice à réparer, ou pas.
+✓ Cohérence. Le nom, l’absence du père, l’éducation, la particularité, la contradiction et l’image du site viennent de la même question : qu’est-ce que reconnaître quelqu’un ?
+
+Si vous passez devant le portail de la maison de la lignée, dites quelque chose. N’importe quoi. Il a besoin d’entendre votre voix pour savoir qui vous êtes.
