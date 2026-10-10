@@ -133,6 +133,99 @@
     }
   }
 
+  /* ---------- Musique de fond ----------
+     Les navigateurs interdisent le son avant un geste du visiteur :
+     la musique démarre au premier clic (ou Entrée / Espace), sauf si le visiteur l'a coupée. */
+
+  var music = doc.getElementById('musique');
+  var musicBtn = doc.querySelector('[data-musique]');
+
+  if (music && musicBtn) {
+    var PREF_KEY = 'omokage-musique';
+    var VOLUME = 0.35;
+    var wanted = true;
+    var fadeTimer = null;
+    var pausedByHide = false;
+
+    try { wanted = localStorage.getItem(PREF_KEY) !== 'off'; } catch (e) { /* stockage indisponible */ }
+
+    var remember = function (on) {
+      try { localStorage.setItem(PREF_KEY, on ? 'on' : 'off'); } catch (e) { /* stockage indisponible */ }
+    };
+
+    var setUi = function (on) {
+      musicBtn.classList.toggle('is-playing', on);
+      musicBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
+    };
+
+    var fadeTo = function (target, ms, done) {
+      clearInterval(fadeTimer);
+      var start = music.volume;
+      var steps = Math.max(1, Math.round(ms / 50));
+      var i = 0;
+      fadeTimer = setInterval(function () {
+        i += 1;
+        music.volume = clamp(start + (target - start) * (i / steps), 0, 1);
+        if (i >= steps) {
+          clearInterval(fadeTimer);
+          if (done) done();
+        }
+      }, 50);
+    };
+
+    var playMusic = function () {
+      music.volume = 0;
+      var attempt = music.play();
+      var started = function () { setUi(true); fadeTo(VOLUME, 2500); };
+      if (attempt && typeof attempt.then === 'function') {
+        attempt.then(started, function () { setUi(false); });
+      } else {
+        started();
+      }
+    };
+
+    var pauseMusic = function () {
+      setUi(false);
+      fadeTo(0, 600, function () { music.pause(); });
+    };
+
+    musicBtn.addEventListener('click', function () {
+      if (musicBtn.getAttribute('aria-pressed') === 'true') {
+        wanted = false;
+        remember(false);
+        pauseMusic();
+      } else {
+        wanted = true;
+        remember(true);
+        playMusic();
+      }
+    });
+
+    var stopListening = function () {
+      doc.removeEventListener('pointerdown', firstGesture, true);
+      doc.removeEventListener('keydown', firstGesture, true);
+    };
+    var firstGesture = function (e) {
+      if (e.type === 'keydown' && e.key !== 'Enter' && e.key !== ' ') return;
+      stopListening();
+      // Un premier clic sur le bouton lui-même est géré par son propre gestionnaire.
+      if (e.target.closest && e.target.closest('[data-musique]')) return;
+      if (wanted && music.paused) playMusic();
+    };
+    doc.addEventListener('pointerdown', firstGesture, true);
+    doc.addEventListener('keydown', firstGesture, true);
+
+    doc.addEventListener('visibilitychange', function () {
+      if (doc.hidden && !music.paused) {
+        pausedByHide = true;
+        music.pause();
+      } else if (!doc.hidden && pausedByHide) {
+        pausedByHide = false;
+        if (wanted) music.play().catch(function () { setUi(false); });
+      }
+    });
+  }
+
   /* ---------- Dialogues ---------- */
 
   function openDialog(id) {

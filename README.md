@@ -25,6 +25,7 @@ Le site est statique : HTML, CSS et JavaScript natifs, sans dépendance ni étap
 | `assets/css/style.css` | Direction artistique : papier, encre, vermillon, carnet. |
 | `assets/js/main.js` | Apparitions, fil de navigation, planche de photographies, chapitre du soir, version texte. |
 | `assets/img/` | Les images fournies (le site en affiche des recadrages en CSS, sans modifier les fichiers). |
+| `assets/audio/theme-shisui.mp3` | Musique de fond, jouée en boucle à partir du premier clic du visiteur ; le bouton « Musique » la coupe. Pour la changer, remplacer ce fichier en gardant le même nom. |
 | `tools/build.py` | Corrige la typographie française, met à jour les caractères japonais chargés et régénère `candidature.txt`. |
 
 ## Après une modification du texte

@@ -152,7 +152,22 @@ html.js .entete:not(.is-scrolled) .marque { opacity: 0; visibility: hidden; }
 .bouton--plein:hover { background: var(--shu); border-color: var(--shu); }
 .mode-nuit .entete .bouton { border-color: rgba(231, 221, 202, .35); }
 
+/* Bouton de la musique : trois traits d'encre qui bougent quand le son joue. */
+.son { display: inline-flex; align-items: flex-end; gap: 2px; height: .72rem; }
+.son i { display: block; width: 2px; height: 30%; background: currentColor; border-radius: 1px; }
+.son i:nth-child(2) { height: 55%; }
+.bouton--son.is-playing { border-color: var(--shu); }
+.bouton--son.is-playing .son i { color: var(--shu); animation: son 1.1s ease-in-out infinite alternate; }
+.bouton--son.is-playing .son i:nth-child(2) { animation-delay: -.45s; }
+.bouton--son.is-playing .son i:nth-child(3) { animation-delay: -.8s; }
+.mode-nuit .bouton--son.is-playing .son i { color: var(--lamp); }
+@keyframes son { from { height: 22%; } to { height: 100%; } }
+@media (prefers-reduced-motion: reduce) {
+  .bouton--son.is-playing .son i { height: 85%; }
+}
+
 @media (max-width: 560px) {
+  .bouton__libelle { display: none; }
   .marque__sous { display: none; }
   .bouton { padding: .55rem .65rem; letter-spacing: .1em; }
 }
